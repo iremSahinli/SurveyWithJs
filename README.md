@@ -14,6 +14,7 @@
 
 
 ## Proje kaynakları:
+
 -Udemy
 -AI
 -https://getbootstrap.com
